@@ -1,3 +1,3 @@
 # CoreBasement
 
-*SimpleDependancyInjectionExample* - an example with injections from application context (xml) file. 
+*SimpleDependancyInjectionExample* - an example with injections from the application context (xml) file. 
